@@ -85,8 +85,19 @@ print(f"{math.sqrt(statistics.mean(scores))}")
 
 import pandas as pd
 import numpy as np
+import scipy
+from scipy import stats
 
 x_times = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 y_temps = [2, 5, 8, 20, 21, 23, 24, 27, 30, 31, 31,32]
 intercept = np.polyfit(x_times, y_temps, 1)
 print(intercept)
+
+linear_regression = stats.linregress(x=x_times, y=y_temps)
+linear_regression.slope
+linear_regression.intercept
+
+# slope and intercept copied from terminal
+y_future = (2.776223776223776 * 13) + 3.1212121212121247
+print(f"{y_future: 0.2f}")
+

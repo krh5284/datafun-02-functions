@@ -1,0 +1,366 @@
+Terminal output from math and stats
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/doctestfun.py"
+
+add_two(5,5) = 10
+
+add_triangle_list([5,5,5) = 15     
+
+add_any(2)       = 2
+add_any(2,2)     = 4
+add_any(2,2,2)   = 6
+add_any(2,2,2,2) = 8
+
+add_any_with_keywords(a=8,b=2) = 10
+
+Running doctest.testmod() function to unit test our code
+===========================================================
+
+
+===========================================================
+If you don't see any results, all tests passed.
+===========================================================
+Run with the -v flag to show results regardless.
+Hit up arrow (to get last command) and add space -v
+===========================================================
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/doctestfun.py"
+
+add_two(5,5) = 10
+
+add_triangle_list([5,5,5) = 15
+
+add_any(2)       = 2
+add_any(2,2)     = 4
+add_any(2,2,2)   = 6
+add_any(2,2,2,2) = 8
+
+add_any_with_keywords(a=8,b=2) = 10
+
+Running doctest.testmod() function to unit test our code
+===========================================================
+
+
+===========================================================
+If you don't see any results, all tests passed.
+===========================================================
+Run with the -v flag to show results regardless.
+Hit up arrow (to get last command) and add space -v
+===========================================================
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/doggydaycare.py"
+Hello!, We'll ask for three temperatures in Celcius.
+
+Provide a temperature in Celcius: 25
+
+Provide a temperature in Celcius: 26
+
+Provide a temperature in Celcius: 27
+The sum is 78.0.
+The average is 26.0.
+The product is 17550.0.
+The smallest is 25.0.
+The largest is 27.0.
+The range is 2.0.
+
+It's above freezing at the Doggy Daycare!
+
+Do you want to learn more about puppies? (y/n) y
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/doctestfun.py"
+
+add_two(5,5) = 10
+
+add_triangle_list([5,5,5) = 15
+
+add_any(2)       = 2
+add_any(2,2)     = 4
+add_any(2,2,2)   = 6
+add_any(2,2,2,2) = 8
+
+add_any_with_keywords(a=8,b=2) = 10
+
+Running doctest.testmod() function to unit test our code
+===========================================================
+
+
+===========================================================
+===========================================================
+Run with the -v flag to show results regardless.
+Hit up arrow (to get last command) and add space -v
+===========================================================
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/py  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\doctestfun.py", line 100
+    -v
+      ^
+IndentationError: unindent does not match any outer indentation level
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/py  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\doctestfun.py", line 101
+    python example.py -v
+           ^^^^^^^
+SyntaxError: invalid syntax
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/doctestfun.py"
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\doctestfun.py", line 101
+    python example.py
+           ^^^^^^^
+SyntaxError: invalid syntax
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/doctestfun.py"
+
+add_two(5,5) = 10
+
+add_triangle_list([5,5,5) = 15
+
+add_any(2)       = 2
+add_any(2,2)     = 4
+add_any(2,2,2)   = 6
+add_any(2,2,2,2) = 8
+
+add_any_with_keywords(a=8,b=2) = 10
+
+Running doctest.testmod() function to unit test our code
+===========================================================
+
+
+===========================================================
+===========================================================
+Run with the -v flag to show results regardless.
+Hit up arrow (to get last command) and add space -v
+===========================================================
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/doctestfun.py"
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\doctestfun.py", line 74
+    python example.py
+           ^^^^^^^
+SyntaxError: invalid syntax
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/doctestfun.py"
+
+add_two(5,5) = 10
+
+add_triangle_list([5,5,5) = 15
+
+add_any(2)       = 2
+add_any(2,2)     = 4
+add_any(2,2,2)   = 6
+add_any(2,2,2,2) = 8
+
+add_any_with_keywords(a=8,b=2) = 10
+
+Running doctest.testmod() function to unit test our code
+===========================================================
+
+
+===========================================================
+If you don't see any results, all tests passed.
+Run with the -v flag to show results regardless.
+Hit up arrow (to get last command) and add space -v
+===========================================================
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_math.py"
+Explore some functions in the math module
+
+math.perm(5,1) = 5
+your code here
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_math.py"
+<function get_area_of_lot at 0x000002961CA92D40>
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/pyExplore some functions in the math module
+
+math.comb(5,1) = 5
+math.perm(5,1) = 5
+your code here
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions>
+
+
+
+                                                                                          > & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_math.py"
+Explore some functions in the math module
+math.comb(5,1) = 5
+math.perm(5,1) = 5
+your code here
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_math.py"
+Explore some functions in the math module
+
+math.perm(5,1) = 5
+your code here
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_math.py"
+Explore some functions in the math module
+
+math.comb(5,1) = 5
+math.perm(5,1) = 5
+Lot area: 12
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_math.py"
+Explore some functions in the math module
+
+math.comb(5,1) = 5
+math.perm(5,1) = 5
+your code here
+Lot area: 12
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_math.py"
+Explore some functions in the math module
+
+math.comb(5,1) = 5
+math.perm(5,1) = 5
+your code here
+Lot area: 12
+Run area: 200
+Your chickens need: 120 sq ft
+thon.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_math.py"
+Explore some functions in the math module
+
+math.comb(5,1) = 5
+math.perm(5,1) = 5
+Lot area: 12
+Run area: 200
+Round run area: 314.1592653589793
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_stats.py", line 75
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+99.12
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+99.12
+102.5
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+99.12
+102.5
+111
+175.6656
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_stats.py", line 79, in <module>
+    print(f"{math.sqrt(statistics.mean(scores))}")
+NameError: name 'math' is not defined
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+102.5
+111
+175.6656
+9.955902771722915
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_stats.py", line 90
+    intercept =
+                ^
+SyntaxError: invalid syntax
+thon.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+99.12
+102.5
+111
+175.6656
+9.955902771722915
+Traceback (most recent call last):
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_stats.py", line 86, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+thon.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+99.12
+102.5
+111
+175.6656
+9.955902771722915
+Traceback (most recent call last):
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_stats.py", line 86, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+thon.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+99.12
+102.5
+111
+175.6656
+9.955902771722915
+Traceback (most recent call last):
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_stats.py", line 86, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+thon.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+99.12
+102.5
+111
+175.6656
+Traceback (most recent call last):
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_stats.py", line 86, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/py  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_stats.py", line 86
+    pip show pandas
+        ^^^^
+SyntaxError: invalid syntax
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/AppData/Local/Programs/Python/Python310/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_stats.py", line 86
+    pip install pandas
+        ^^^^^^^
+SyntaxError: invalid syntax
+thon.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+99.12
+102.5
+111
+175.6656
+9.955902771722915
+Traceback (most recent call last):
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_stats.py", line 86, in <module>
+    import pandas
+ModuleNotFoundError: No module named 'pandas'
+ol/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+99.12
+102.5
+111
+175.6656
+9.955902771722915
+Traceback (most recent call last):
+    intercept = np.polyfit(x, y, 1)
+NameError: name 'x' is not defined
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/Anaconda/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_stats.py"
+99.12
+102.5
+111
+175.6656
+9.955902771722915
+[2.77622378 3.12121212]
+ol/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_mathout.py"
+Explore some functions in the math module
+
+math.comb(5,1) = 5
+math.perm(5,1) = 5
+your code here
+Lot area: 12
+Your chickens need: 120 sq ft
+Round run area: 314.1592653589793
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/Anaconda/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_statsout.py"
+99.12
+111
+175.6656
+9.955902771722915
+[2.77622378 3.12121212]
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/Anaconda/python.exe "g:/My Drive/Grad Scho  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_statsout.py", line 96
+    print(f"{linear_regression = stats.linregress(x=x_times, y=y_temps}"")
+                                                                          ^
+SyntaxError: EOL while scanning string literal
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/Anaconda/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_statsout.py"
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_statsout.py", line 96
+    print(f"{linear_regression = stats.linregress(x=x_times, y=y_temps)}")
+                                                                         ^
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/Anaconda/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_statsout.py"
+99.12
+102.5
+111
+175.6656
+9.955902771722915
+[2.77622378 3.12121212]
+652, intercept_stderr=2.2655675881405233)
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/Anaconda/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_statsout.py"
+99.12
+102.5
+175.6656
+9.955902771722915
+[2.77622378 3.12121212]
+39.21212121212121
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/Anaconda/python.exe "g:/My Drive/Grad Scho  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_statsout.py", line 102
+    print(f"{y_future 0.2f})
+                            ^
+SyntaxError: EOL while scanning string literal
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/Anaconda/python.exe "g:/My Drive/Grad Scho  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_statsout.py", line 102
+    (y_future 0.2f)
+              ^
+SyntaxError: f-string: invalid syntax
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/Anaconda/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_statsout.py"
+  File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\user_statsout.py", line 102
+    (y_future, 0.2f)
+                  ^
+SyntaxError: f-string: invalid syntax
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> & C:/Users/krh52/Anaconda/python.exe "g:/My Drive/Grad School/44608_Data_Analytics_Fundamentals/Module 2/datafun-02-functions/user_statsout.py"
+99.12
+102.5
+111
+175.6656
+9.955902771722915
+[2.77622378 3.12121212]
+ 39.21
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> 

@@ -1,0 +1,28 @@
+File "g:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions\xtra_p2.py", line 24, in __main__
+Failed example:
+    convert_ctof(100)
+Exception raised:
+    Traceback (most recent call last):
+      File "C:\Users\krh52\Anaconda\lib\doctest.py", line 1334, in __run
+        exec(compile(example.source, filename, "single",
+      File "<doctest __main__[6]>", line 1, in <module>
+        convert_ctof(100)
+    NameError: name 'convert_ctof' is not defined
+**********************************************************************
+1 items had failures:
+   3 of   7 in __main__
+***Test Failed*** 3 failures.
+
+===========================================================
+If you don't see any results, all tests passed.
+===========================================================
+Run with the -v flag to show results regardless.
+Hit up arrow (to get last command) and add space -v
+===========================================================
+
+Read error messages carefully.
+Errors tell which line number has the error
+and what the issue is. Scroll up in the terminal to see.
+Fix issues one at a time until you get the behavior
+Described in the docstring.
+PS G:\My Drive\Grad School\44608_Data_Analytics_Fundamentals\Module 2\datafun-02-functions> 

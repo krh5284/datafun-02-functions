@@ -69,6 +69,8 @@ def add_any_with_keywords(**kwargs):
 
 
 if __name__ == "__main__":
+    import doctest
+    doctest.testmod()
 
     # -------------------------------------------------------------
     # Call some functions and execute code!

@@ -79,5 +79,3 @@ def run_area_round(radius):
     area_round = math.pi * (radius ** 2)
     print(f"Round run area: {area_round}")
 run_area_round(10)
-
-
